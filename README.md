@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Patryk-Programista
+- 👋 Hi, I’m 3d noob
 - 👀 I’m interested in 3d modeling, html/css/js and games
 - 🌱 I’m currently learning blender( 3d modeling)
 - 💞️ I’m looking to collaborate on large projects 
